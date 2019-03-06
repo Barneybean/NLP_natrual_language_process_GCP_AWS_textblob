@@ -2,6 +2,7 @@
 
 By: William Gao
 Colab Kernel: https://colab.research.google.com/drive/13uP__xufuhc2Fd1gSn-x8SlQHzYqIHnE
+
 A Jupyter Notebook in my Github: https://github.com/Barneybean/NLP_natrual_language_process_GCP_AWS_textblob 
 
 ## Overview
